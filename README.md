@@ -1,4 +1,11 @@
 # Karma-Python-Automation
+**[ Environment Setup ]**
+
+A lot's of you were facing some installing issue for karma tools. Here we'll show how to setup environment for the tools. Make sure to use our provided python version.
+
+**Setup Video:** https://www.youtube.com/watch?v=UJa3t1w4-AI
+
+**Python Download URL:** https://drive.google.com/file/d/1Lh2a99ziqY_HKWfhZ2ZsHzcpe8KPDSyF/view?usp=sharing
 
 **Major update on our tool**
 
@@ -18,7 +25,6 @@ Usage: **python3 interface.py**
 3. Mass cPanel To SMTP Cracker
 
 **CPANEL Format:** https://domain:2083|user|pass
-
 
 **Note:** Run **install.py** it will intall required packages
 
