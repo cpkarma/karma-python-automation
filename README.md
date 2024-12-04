@@ -1,5 +1,7 @@
 # Karma-Python-Automation
-**[ Environment Setup ]**
+
+### Requirements: Python 3
+### [ Environment Setup ]
 
 A lot's of you were facing some installing issue for karma tools. Here we'll show how to setup environment for the tools. Make sure to use our provided python version.
 
@@ -14,7 +16,8 @@ A lot's of you were facing some installing issue for karma tools. Here we'll sho
 3. Works super fast and accurately.
 4. It provides accurate shell result.
 
-Usage: **python3 interface.py**
+
+**Usage:** ``python interface.py``
 
 **Extremely Accurate cPanel Tools**
 
