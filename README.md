@@ -3,7 +3,7 @@
 
 A lot's of you were facing some installing issue for karma tools. Here we'll show how to setup environment for the tools. Make sure to use our provided python version.
 
-**Setup Video:** https://www.youtube.com/watch?v=UJa3t1w4-AI
+**Environment Setup Video:** https://www.youtube.com/watch?v=UJa3t1w4-AI
 
 **Python Download URL:** https://drive.google.com/file/d/1Lh2a99ziqY_HKWfhZ2ZsHzcpe8KPDSyF/view?usp=sharing
 
